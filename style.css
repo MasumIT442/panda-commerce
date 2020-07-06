@@ -11,3 +11,19 @@
 .price{
     color: #ff136f;
 }
+.categories h1{
+    color:white;
+}
+.cat-1, .cat-2, .cat-3{
+    padding:10px 20px;
+    border-radius: 15px;
+}
+.cat-1{
+      background-image: linear-gradient(45deg, tomato,yellow);
+}
+.cat-2{
+    background-image: linear-gradient(45deg, rgb(24, 96, 129),yellow);
+}
+.cat-3{
+    background-image: linear-gradient(45deg, rgb(119, 17, 76),yellow);
+}
