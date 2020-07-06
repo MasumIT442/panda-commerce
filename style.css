@@ -31,3 +31,9 @@
     border:none;
     box-shadow: 10px 10px 20px grey;
 }
+.card{
+    border: 20px;
+}
+.carousel-control-next-icon .carousel-control-prev-icon{
+    height: 4px;
+}
